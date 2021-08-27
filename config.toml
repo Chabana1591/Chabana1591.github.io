@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://chabana1591.github.io/'
+languageCode = 'ja-jp'
+title = 'Chabana1591 MainPage'
 theme = "ananke"
 
 publishDir = "docs"
